@@ -92,8 +92,8 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |   complted         |   go to the [website](https://open.appacademy.io/learn/full-stack-online/welcome-to-coding/welcome-to-app-academy-open)          |
-| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
+| Welcome To Coding                                                                                                                                                     |   completed        |   go to the [website](https://open.appacademy.io/learn/full-stack-online/welcome-to-coding/welcome-to-app-academy-open)          |
+| Full Stack Online - Intro to Programming                                                                                                                              |    halfway done        |              |
 | Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
 | Full Stack Online - Ruby                                                                                                                                              |            |              |
 | Full Stack Online - SQL                                                                                                                                               |            |              |
