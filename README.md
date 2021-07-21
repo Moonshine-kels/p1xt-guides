@@ -86,7 +86,7 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
 
-### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open (on hold till i finish programing prep prep)
+### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open 
 
 Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp. See [FAQ](./faq.md) for alternatives.
 
